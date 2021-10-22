@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="pgo51e00-page04_3.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="pgo51e00-page04_3.tif" pageID="1" width="2560" height="3296">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1169" row="2149" width="887" height="263" Overlapped="Yes" AuthorID="Toohey, W.D."> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

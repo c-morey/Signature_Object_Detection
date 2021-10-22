@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="xjx9aa00-first.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="xjx9aa00-first.tif" pageID="1" width="2528" height="3124">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="36" row="2287" width="1142" height="157" Overlapped="Yes" AuthorID="Bowden, D.H."> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

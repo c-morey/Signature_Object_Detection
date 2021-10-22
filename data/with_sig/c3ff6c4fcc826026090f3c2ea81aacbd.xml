@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="ncp46d00-var.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="ncp46d00-var.tif" pageID="1" width="1728" height="2292">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="778" row="1370" width="595" height="119" Overlapped="Yes" AuthorID="Hall, L.M."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="295" row="1552" width="282" height="105" Overlapped="Yes" AuthorID=""> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="enk41e00-page2_2.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="enk41e00-page2_2.tif" pageID="1" width="2560" height="3275">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="442" row="754" width="854" height="204" Overlapped="Yes" AuthorID="Vollmuth, T.A."> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

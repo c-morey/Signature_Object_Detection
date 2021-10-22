@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="oky33f00-var.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="oky33f00-var.tif" pageID="1" width="2544" height="3270">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1310" row="2284" width="407" height="129" Overlapped="Yes" AuthorID="Stungis, G.E."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLLogo" id="None" col="1158" row="145" width="156" height="174"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

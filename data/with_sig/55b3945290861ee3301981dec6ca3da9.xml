@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="hhz25e00.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="hhz25e00.tif" pageID="1" width="2560" height="3273">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="403" row="2373" width="812" height="265" Overlapped="Yes" AuthorID="Ferraro, C.J."> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

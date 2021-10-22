@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="fny38c00-page05_5.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="fny38c00-page05_5.tif" pageID="1" width="1728" height="2292">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="158" row="1260" width="356" height="100" Overlapped="Yes" AuthorID="Gwynn, E.S."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="198" row="1470" width="469" height="143" Overlapped="Yes" AuthorID="Broeman, Ina"> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="164" row="1659" width="617" height="172" Overlapped="Yes" AuthorID="Gwynn, E.S."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="114" row="1780" width="660" height="204" Overlapped="Yes" AuthorID=""> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="104" row="1431" width="101" height="73" Overlapped="Yes" AuthorID=""> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

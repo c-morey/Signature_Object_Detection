@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="cjb54c00.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="cjb54c00.tif" pageID="1" width="1728" height="2292">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="820" row="1713" width="421" height="86" Overlapped="Yes" AuthorID="Daigle, W.P."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLLogo" id="None" col="1369" row="214" width="205" height="198"> </DL_ZONE>
+			<DL_ZONE gedi_type="DLLogo" id="" col="1051" row="216" width="205" height="198"> </DL_ZONE>
+			<DL_ZONE gedi_type="DLLogo" id="" col="725" row="218" width="202" height="202"> </DL_ZONE>
+			<DL_ZONE gedi_type="DLLogo" id="" col="405" row="222" width="202" height="202"> </DL_ZONE>
+			<DL_ZONE gedi_type="DLLogo" id="" col="83" row="224" width="202" height="202"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

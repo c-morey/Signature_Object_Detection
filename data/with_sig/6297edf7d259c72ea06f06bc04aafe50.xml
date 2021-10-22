@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="tji44a00.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="tji44a00.tif" pageID="1" width="1728" height="2292">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="503" row="1039" width="353" height="113" Overlapped="Yes" AuthorID="Cowing, M.W."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1055" row="1042" width="353" height="81" Overlapped="Yes" AuthorID="Murphy, K.A."> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

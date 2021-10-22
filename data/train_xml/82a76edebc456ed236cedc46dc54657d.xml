@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="sla48c00.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="sla48c00.tif" pageID="1" width="1728" height="2292">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="794" row="1608" width="479" height="164" Overlapped="Yes" AuthorID="Broeman, Ina"> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="61" row="1624" width="606" height="105" Overlapped="Yes" AuthorID=""> </DL_ZONE>
+			<DL_ZONE gedi_type="DLLogo" id="None" col="601" row="248" width="420" height="122"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

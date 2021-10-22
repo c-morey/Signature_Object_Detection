@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="egl10a00.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="egl10a00.tif" pageID="1" width="2544" height="3296">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1398" row="2106" width="577" height="109" Overlapped="No" AuthorID="Gertenbech, R.F."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1593" row="2617" width="916" height="341" Overlapped="Yes" AuthorID=""> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="pkj90c00.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="pkj90c00.tif" pageID="1" width="2400" height="3150">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1017" row="1924" width="866" height="148" Overlapped="Yes" AuthorID="Keane, T.M."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLLogo" id="None" col="159" row="88" width="547" height="377"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

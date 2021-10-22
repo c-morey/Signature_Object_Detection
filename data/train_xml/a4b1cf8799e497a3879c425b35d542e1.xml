@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="aki32e00.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="aki32e00.tif" pageID="1" width="2560" height="3274">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1246" row="2427" width="893" height="454" Overlapped="Yes" AuthorID="Krivisky, B.M."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLLogo" id="None" col="1075" row="333" width="333" height="208"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="nlk90c00.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="nlk90c00.tif" pageID="1" width="2400" height="3150">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="244" row="1895" width="562" height="118" Overlapped="Yes" AuthorID="Holek, M.L."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLLogo" id="None" col="142" row="225" width="272" height="265"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="rtv20a00-var.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="rtv20a00-var.tif" pageID="1" width="2496" height="3229">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="345" row="1840" width="546" height="155" Overlapped="Yes" AuthorID="Schultz, F.J."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1590" row="1996" width="715" height="226" Overlapped="Yes" AuthorID=""> </DL_ZONE>
+			<DL_ZONE gedi_type="DLLogo" id="None" col="922" row="132" width="732" height="214"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

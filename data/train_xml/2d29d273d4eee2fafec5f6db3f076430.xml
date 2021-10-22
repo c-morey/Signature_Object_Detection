@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="efm53d00.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="efm53d00.tif" pageID="1" width="2544" height="3259">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1240" row="2650" width="625" height="118" Overlapped="Yes" AuthorID="Snyder, S.L."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1191" row="2795" width="551" height="100" Overlapped="Yes" AuthorID="Neher, W.K."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1221" row="2960" width="793" height="96" Overlapped="Yes" AuthorID="MacKinnon, S.A."> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

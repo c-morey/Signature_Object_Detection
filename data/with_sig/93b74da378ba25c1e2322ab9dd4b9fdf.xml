@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="gwo3aa00.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="gwo3aa00.tif" pageID="1" width="2480" height="3300">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1248" row="1601" width="508" height="89" Overlapped="Yes" AuthorID="Whitmire, C.E."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLLogo" id="None" col="1651" row="298" width="170" height="195"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

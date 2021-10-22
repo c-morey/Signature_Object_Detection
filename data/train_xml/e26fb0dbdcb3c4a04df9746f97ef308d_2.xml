@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="ebp68d00-page02_2.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="ebp68d00-page02_2.tif" pageID="1" width="2544" height="3189">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1240" row="1708" width="487" height="154" Overlapped="Yes" AuthorID="Neher, W.K."> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

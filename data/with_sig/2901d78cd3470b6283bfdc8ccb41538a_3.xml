@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="wau30a00-page9_3.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="wau30a00-page9_3.tif" pageID="1" width="2544" height="3284">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="679" row="1613" width="667" height="181" Overlapped="Yes" AuthorID="Pepples, Ernest"> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1574" row="2481" width="687" height="135" Overlapped="Yes" AuthorID=""> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

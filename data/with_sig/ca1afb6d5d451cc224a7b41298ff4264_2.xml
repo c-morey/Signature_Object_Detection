@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="cjy33f00-page02_2.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="cjy33f00-page02_2.tif" pageID="1" width="2544" height="3286">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="403" row="1413" width="610" height="130" Overlapped="Yes" AuthorID="Paoletti, Rodolfo"> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1201" row="1057" width="466" height="157" Overlapped="Yes" AuthorID=""> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

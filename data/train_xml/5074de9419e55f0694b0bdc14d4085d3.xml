@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="kfw39d00.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="kfw39d00.tif" pageID="1" width="2544" height="3274">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="230" row="1850" width="883" height="257" Overlapped="Yes" AuthorID="Winder, J.H."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="349" row="2114" width="675" height="119" Overlapped="Yes" AuthorID="Hatton, C.R."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="341" row="2302" width="676" height="119" Overlapped="Yes" AuthorID="Hobbs, W.D."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="364" row="2525" width="607" height="230" Overlapped="Yes" AuthorID="Jones, S.O."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1347" row="1619" width="341" height="108" Overlapped="Yes" AuthorID="Smith, G.D."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1328" row="1896" width="882" height="145" Overlapped="Yes" AuthorID="Leake, W.S."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1366" row="2114" width="714" height="169" Overlapped="Yes" AuthorID="Sherrill, J.H."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1416" row="2287" width="434" height="142" Overlapped="Yes" AuthorID="Stokes, Colin"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

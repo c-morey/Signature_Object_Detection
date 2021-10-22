@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="ggp21c00-var.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="ggp21c00-var.tif" pageID="1" width="2400" height="3150">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1073" row="1924" width="714" height="252" Overlapped="Yes" AuthorID="Tarrance, Lance"> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1280" row="2157" width="459" height="119" Overlapped="Yes" AuthorID="Nielsen, Vigo G."> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

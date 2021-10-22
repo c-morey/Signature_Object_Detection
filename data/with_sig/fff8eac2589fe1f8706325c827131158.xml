@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="vfh43f00.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="vfh43f00.tif" pageID="1" width="2544" height="3282">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1322" row="2182" width="409" height="158" Overlapped="Yes" AuthorID="Nielsen, V.C."> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

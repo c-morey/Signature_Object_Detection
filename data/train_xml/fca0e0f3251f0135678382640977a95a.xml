@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="dgw64a00.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="dgw64a00.tif" pageID="1" width="1728" height="2156">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1018" row="1586" width="340" height="59" Overlapped="Yes" AuthorID="Dimech, Ellen"> </DL_ZONE>
+			<DL_ZONE gedi_type="DLLogo" id="None" col="740" row="109" width="198" height="134"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="rzo50e00.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="rzo50e00.tif" pageID="1" width="2560" height="3295">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1571" row="2249" width="388" height="124" Overlapped="No" AuthorID="Fassuliotis, Constance"> </DL_ZONE>
+			<DL_ZONE gedi_type="DLLogo" id="None" col="214" row="258" width="766" height="246"> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>

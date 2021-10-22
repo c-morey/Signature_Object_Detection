@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GEDI is developed at Language and Media Processing Laboratory, University of Maryland.-->
+<GEDI xmlns="http://lamp.cfar.umd.edu/GEDI" version="1.0">
+	<DL_DOCUMENT src="ijt58d00-page02_2.tif" NrOfPages="1" docTag="xml">
+		<DL_PAGE gedi_type="DL_PAGE" src="ijt58d00-page02_2.tif" pageID="1" width="2544" height="3256">
+			<DL_ZONE gedi_type="DLSignature" id="None" col="1554" row="1227" width="766" height="194" Overlapped="Yes" AuthorID="Squires, W.C."> </DL_ZONE>
+			<DL_ZONE gedi_type="DLSignature" id="None" col="378" row="2319" width="555" height="131" Overlapped="Yes" AuthorID=""> </DL_ZONE>
+		</DL_PAGE>
+	</DL_DOCUMENT>
+</GEDI>
